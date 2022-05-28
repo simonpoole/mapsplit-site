@@ -1,0 +1,149 @@
+{
+    "directory": "pbf/",
+    "extracts": [
+       {
+           "output": "austria.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/austria.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "croatia.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/croatia.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "switzerland.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/switzerland.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "in/dehli.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/dehli.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "in/dehli-haryana-madhya pradesh-punjab-rajasthan-uttar pradesh.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/Dehli-Haryana-Madhya_Pradesh-Punjab-Rajasthan-Uttar_Pradesh.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "iran.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/iran.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "iraq.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/iraq.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "turkmenistan.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/turkmenistan.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "vietnam.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/vietnam.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "hong kong.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/hong kong.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "de/baden-wuerttemberg.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/de/baden-wuerttemberg.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "de/bw/karlsruhe-regbez.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/de/bw/karlsruhe-regbez.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "de/brandenburg.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/de/brandenburg.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "de/mecklenburg-vorpommern.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/de/mecklenburg-vorpommern.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "de/sachsen-anhalt.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/de/sachsen-anhalt.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "de/sachsen.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/de/sachsen.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "de/thueringen.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/de/thueringen.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "guernsey-jersey.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/guernsey-jersey.poly",
+	       "file_type": "poly"
+	   }
+       }
+    ]
+}
