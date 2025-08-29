@@ -1,0 +1,85 @@
+{
+    "directory": "pbf/",
+    "extracts": [
+       {
+           "output": "argentina.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/argentina.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "austria.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/austria.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "chile.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/chile.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "croatia.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/croatia.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "singapore.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/singapore.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "switzerland.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/switzerland.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "in/dehli.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/dehli.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "in/dehli-haryana-madhya pradesh-punjab-rajasthan-uttar pradesh.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/Dehli-Haryana-Madhya_Pradesh-Punjab-Rajasthan-Uttar_Pradesh.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "iran.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/iran.poly",
+	       "file_type": "poly"
+	   }
+       },
+       {
+           "output": "iraq.osm.pbf",
+           "output_format": "pbf",
+	   "multipolygon": {
+               "file_name": "poly/iraq.poly",
+	       "file_type": "poly"
+	   }
+       }
+    ]
+}
